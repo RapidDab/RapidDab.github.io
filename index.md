@@ -10,7 +10,7 @@ My GitHub page is http://github.com/RapidDab.
 
 * Lab 6
 
-    Lab 6, part 2 was one of my favorite labs because of how I made use of ||(or) and &&(and) statements. Another way I could have done the conditional statements in the functions that check which type of card the user inputed is to write seperate if and else if statements for each conditional. I think the way I did was better and a lot more fun to do instead of hard coding each statement. Also something I found interest in this lab was that I had to use a try, throw catch statement in the IsNumberCard function because i needed to account for the card being inputed as a string and a integer. Instead of checking if the user inputed an integer or a string I just used a try, throw, catch statement to ignore if the card_name was an string with actual letters.
+    Lab 6, part 2, was one of my favorite labs because of how I made use of 'or' and 'and' statements. Another way I could have done the conditional statements in the functions that check which type of card the user inputs is to write separate if and else if statements for each conditional. I think the way I did it was better and a lot more fun to do instead of hard-coding each statement. Also, something I found interesting in this lab was that I had to learn how to use a try, throw, catch statement in the IsNumberCard function because I needed to account for the card being input as a string and an integer. Instead of checking if the user input an integer or a string, I just used a try, throw, catch statement to ignore if the card_name was a string with actual letters.
 
     **The Code**
     ```c++
@@ -56,7 +56,7 @@ My GitHub page is http://github.com/RapidDab.
 
 * Lab 7
 
-    Lab 7, part 2 was one of my favorite labs because to debug the code and complete the lab I had to impliment function overloading to validate if the user_input was valid for the street, day, and hour. The street and day are both strings but hour is an integer. I used function overloading to see if the user inputed valide values. One function with parameters for strings and another for integers. 
+    Lab 7, part 2, was one of my favorite labs because, to debug the code and complete the lab, I had to learn how to implement function overloading in C++ to validate if the user_input was valid for the street, day, and hour. The street and day are both strings, but the hour is an integer. I used function overloading to see if the user input valid values for separate functions with different parameters for both strings and integers.
 
 
     **The Function**
@@ -119,7 +119,7 @@ My GitHub page is http://github.com/RapidDab.
     ```
 * Lab 10
     
-    Lab 10 part-2 is another one of my favorite labs because its the first time I implemented nested for loops and 2-D vectors indexing. It helped me to think three dimentially and figure out how to loop through the inside(**ca_coutie**) and outside vectors(**ca_countie**). It was also interesting that I had to use the two different formats for for loops for the function.**CountryIndex**. 
+    Lab 10, part 2, is another one of my favorite labs because it's the first time I implemented nested for loops and 2-D vector indexing. It helped me to think three-dimensionally and figure out how to loop through the inside (**ca_countie**) and outside vectors (**ca_countie**). It was also interesting that I had to use the two different formats for for loops for the function **CountryIndex**.
 
     **The code**
     ```c++
